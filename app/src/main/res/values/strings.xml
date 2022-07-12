@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Study Case - Pagination</string>
+    <string name="internal_server_error">Internal Server Error</string>
+    <string name="parameter_error">Parameter Error</string>
+    <string name="no_data">There is no data</string>
+    <string name="no_new_data">There is no new data</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="retrieve_data">Retrieve Data</string>
+</resources>
